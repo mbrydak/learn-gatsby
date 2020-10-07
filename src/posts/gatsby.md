@@ -5,6 +5,8 @@ date: '2020/10/06'
 
 I just launched a new Bootcamp!
 
+![Lucifer](./lucifer.jpg)
+
 ## Topics Covered
 
 1. Gatsby
