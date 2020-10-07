@@ -5,7 +5,7 @@ date: '2020/10/06'
 
 I just launched a new Bootcamp!
 
-![Lucifer](./lucifer.jpg)
+![Gatsby Logo](./img/gatsby-logo.jpg)
 
 ## Topics Covered
 
